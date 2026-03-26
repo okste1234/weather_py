@@ -46,7 +46,7 @@ WEATHER_API_URL="https://api.open-meteo.com/v1/forecast?latitude=6.5244&longitud
 ## Usage
 
 ```bash
-python weather.py
+python3 weather.py
 ```
 
 ## Notes
